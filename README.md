@@ -1,7 +1,7 @@
 Hi there!
 My name is Devopscoder331. I am DevOps Engineer and sometimes Security Pentester.
 
-Technologies & Tools\\
+Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=terraform&logoColor=white)
