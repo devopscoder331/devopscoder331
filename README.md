@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🖥️ I’m currently learning Golang, QA and AppSec.
 - 🌱I'm interested Development, Application Security, ML/AI.
 - 💬 Ask me about DevOps, Security.
-- ⚡ Fun fact: I like 
+- ⚡ Fun fact: A long time ago I started my career as a system administrator in a gaming club 🎮
 
 <!--
 **devopscoder331/devopscoder331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
