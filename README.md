@@ -12,7 +12,6 @@ My Technologies DevOps Stack:
 
 Some information about me:
 
-- 🔭 I’m currently working on Security GDPR Tool.
 - 🖥️ I’m currently learning Golang, QA and AppSec.
 - 🌱I'm interested Development, Application Security, ML/AI.
 - 💬 Ask me about DevOps, Security.
