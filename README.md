@@ -13,6 +13,6 @@ My Technologies DevOps Stack:
 Some information about me:
 
 - 🖥️ I’m currently learning Golang, QA and AppSec.
-- 🌱I'm interested Development, Application Security, ML/AI.
+- 🌱 I'm interested Development, Application Security, ML/AI.
 - 💬 Ask me about DevOps, Security.
 - ⚡ Fun fact: A long time ago I started my career as a system administrator in a gaming club 🎮
