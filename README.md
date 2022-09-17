@@ -1,6 +1,6 @@
 ### Hi there, welcome to my GitHub profile<br />
 
-I work as a DevOps Engineer and sometimes Web Application Pentester.
+I work as a DevSecOps Engineer.
 
 My Technologies DevOps Stack:
 
@@ -12,7 +12,6 @@ My Technologies DevOps Stack:
 
 Some information about me:
 
-- 🖥️ I’m currently learning Golang, QA and DevSecOps.
-- 🌱 I'm interested Development, Application Security, ML/AI.
+- 🖥️ I’m currently learning Golang.
 - 💬 Ask me about DevOps, Security.
 - ⚡ Fun fact: A long time ago I started my career as a system administrator in a gaming club 🎮
